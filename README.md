@@ -1,8 +1,8 @@
-N|Solid About Me
+Solid About Me
 💻 AKA Saurav Behera
 💻 Overall 4+ years of experience in IT
 
-N|Solid What I Learn
+Solid What I Learn
 ♨️ Java, JavaScripts
 ✅ Selenium Webdriver
 🚀 Postman
