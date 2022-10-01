@@ -1,5 +1,5 @@
  About Me
-💻 AKA Saurav Behera
+💻 Saurav Behera
 💻 Overall 4+ years of experience in IT
 
  What I Learn
