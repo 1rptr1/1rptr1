@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://tenor.com/view/hand-gif-24581588" width="30px" height="30px" />
+# Hello, folks! 👋
 
 My name is Saurav Behera and I'm an Automation Tester. 
 ## 🔧 Technologies & Tools
