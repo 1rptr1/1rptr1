@@ -41,9 +41,10 @@ My name is Saurav Behera and I'm an Automation Tester.
 <a href="https://github.com/1rptr1/hacker-rank-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1rptr1&repo=hacker-rank-python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-
 <a href="https://github.com/1rptr1/zomato">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1rptr1&repo=zomato&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/1rptr1/Hacker-rank-java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1rptr1&repo=Hacker-rank-java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
