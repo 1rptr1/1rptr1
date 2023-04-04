@@ -39,7 +39,7 @@ My name is Saurav Behera and I'm an Automation Tester.
   <img align="center" src="https://github-readme-stats-wheat-nine-87.vercel.app/api/pin/?username=1rptr1&repo=linkprovider&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/1rptr1/hacker-rank-python">
-  <img align="center" src="https://github-readme-stats-wheat-nine-87.vercel.appapi/pin/?username=1rptr1&repo=hacker-rank-python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-wheat-nine-87.vercel.app/api/pin/?username=1rptr1&repo=hacker-rank-python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/1rptr1/zomato">
   <img align="center" src="https://github-readme-stats-wheat-nine-87.vercel.app/api/pin/?username=1rptr1&repo=zomato&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
