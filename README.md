@@ -23,6 +23,7 @@ My name is Saurav Behera and I'm an Automation Tester.
 
 
 ## &#x1f4c8; GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1rptr1)](https://github.com/1rptr1/github-readme-stats)
 <a href="https://github.com/1rptr1/1rptr1">
   <img align="center" src="https://github-readme-stats-wheat-nine-87.vercel.app/api/top-langs/?username=1rptr1&hide=html,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
