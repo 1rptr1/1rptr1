@@ -25,26 +25,26 @@ My name is Saurav Behera and I'm an Automation Tester.
 ## &#x1f4c8; GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1rptr1)](https://github.com/1rptr1/github-readme-stats)
 <a href="https://github.com/1rptr1/1rptr1">
-  <img align="center" src="https://github-readme-stats-wheat-nine-87.vercel.app/api/top-langs/?username=1rptr1&hide=html,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1rptr1&hide=html,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/1rptr1/1rptr1">
-  <img align="center" src="https://github-readme-stats-wheat-nine-87.vercel.app/api?username=1rptr1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="1rptr1's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1rptr1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="1rptr1's GitHub Stats" />
 </a>
 <a href="https://github.com/1rptr1/Page-object-model-firefox">
-  <img align="center" src="https://github-readme-stats-wheat-nine-87.vercel.app/api/pin/?username=1rptr1&repo=Page-object-model-firefox&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1rptr1&repo=Page-object-model-firefox&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/1rptr1/Page-Object-Model-Chrome">
-  <img align="center" src="https://github-readme-stats-wheat-nine-87.vercel.app/api/pin/?username=1rptr1&repo=Page-Object-Model-Chrome&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1rptr1&repo=Page-Object-Model-Chrome&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/1rptr1/linkprovider">
-  <img align="center" src="https://github-readme-stats-wheat-nine-87.vercel.app/api/pin/?username=1rptr1&repo=linkprovider&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1rptr1&repo=linkprovider&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/1rptr1/hacker-rank-python">
-  <img align="center" src="https://github-readme-stats-wheat-nine-87.vercel.app/api/pin/?username=1rptr1&repo=hacker-rank-python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1rptr1&repo=hacker-rank-python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/1rptr1/zomato">
-  <img align="center" src="https://github-readme-stats-wheat-nine-87.vercel.app/api/pin/?username=1rptr1&repo=zomato&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1rptr1&repo=zomato&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/1rptr1/Hacker-rank-java">
-  <img align="center" src="https://github-readme-stats-wheat-nine-87.vercel.app/api/pin/?username=1rptr1&repo=Hacker-rank-java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1rptr1&repo=Hacker-rank-java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
